@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+   "express": "latest",
+   "mongoose":"latest",
+   "mongodb":"latest"
+  },
+  "author": {
+    "name": "Ertuğrul TAŞ",
+    "email": "ertugrultas@gmail.com"
+  }
+}
